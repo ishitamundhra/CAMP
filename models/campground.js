@@ -9,3 +9,4 @@ const CampgroundSchema = new schema  ({
 })
 
 module.exports = mongoose.model('Campground', CampgroundSchema);
+
